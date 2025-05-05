@@ -50,13 +50,13 @@ bash
 
 Project Structure
 
-TetrisClone/
-├── main.cpp              # Entry point
-├── map.cpp / map.h       # Manages the Tetris grid
-├── tetranimo.cpp / .h    # Handles Tetris pieces
-├── user_interface.cpp / .h # UI drawing functions
-├── randomer.hpp          # Random utility header
-├── assets/               # Fonts or other media (if applicable)
+TetrisClone/\n
+├── main.cpp              # Entry point\n
+├── map.cpp / map.h       # Manages the Tetris grid\n
+├── tetranimo.cpp / .h    # Handles Tetris pieces\n
+├── user_interface.cpp / .h # UI drawing functions\n
+├── randomer.hpp          # Random utility header\n
+├── assets/               # Fonts or other media (if applicable)\n
 
 Notes
 This project uses SFML in static mode. Make sure all required dependencies (like freetype, winmm, etc.) are linked.
